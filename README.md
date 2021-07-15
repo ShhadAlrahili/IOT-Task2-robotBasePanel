@@ -7,14 +7,14 @@
 
 
 <h3>robot base panel page</h3><br>
- 
+ <img src="img/robot-base-panel.png" alt="robot base panel page" width="400">
 
 
 
 
 <h3> Result after choosing the direction of movement</h3><br>
-
-
+<img src="img/backward.png" alt="backward" width="400">
+<img src="img/forward.png" alt="forward" width="400">
 
 
 
@@ -22,6 +22,7 @@
 
 
 <h3>Result after insert the direction of movement on database</h3><br>
+<img src="img/move-dirction.png" alt="move-dirction" width="400">
 
 </p>
    
