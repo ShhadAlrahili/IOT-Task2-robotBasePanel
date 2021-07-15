@@ -1,12 +1,8 @@
 # IOT-Task2-robotBasePanel
-<div>
+
   <h1> robot base control panel</h1>
-  ![](/Robot-base-control-panel.mp4)
-<video width="400" controls>
-  <source src="Robot-base-control-panel.mp4" type="video/mp4">
-  <source src="Robot-base-control-panel.ogg" type="video/ogg">
-  Your browser does not support HTML video.
-</video>
+  
+
+Uploading Robot Arm and 1 more page - Personal - Microsoft​ Edge 2021-07-15 11-24-19.mp4…
 
 
-</div>
