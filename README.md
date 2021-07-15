@@ -7,7 +7,7 @@
 
 
 <h3>robot base panel page</h3><br>
- ![](/trobot base panel.png)
+ ![main page](/trobot base panel.png)
 
 
 
