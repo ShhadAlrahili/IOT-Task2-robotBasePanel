@@ -3,7 +3,7 @@
 <p>
  
 <h3>main page</h3><br>
-<img src="img/main-page.png" alt="main page" width="100">
+<img src="img/main-page.png" alt="main page" width="400">
 
 
 <h3>robot base panel page</h3><br>
