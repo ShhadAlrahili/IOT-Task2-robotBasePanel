@@ -1,7 +1,7 @@
-![main page](https://user-images.githubusercontent.com/80932637/125777813-5b4e35c1-cd98-42bc-97c7-396017d28b87.png)
+
 # IOT-Task2-robotBasePanel
 <h3>main page</h3><br>
- ![](/main page.png)
+![main page](https://user-images.githubusercontent.com/80932637/125777813-5b4e35c1-cd98-42bc-97c7-396017d28b87.png)
 
 
 
