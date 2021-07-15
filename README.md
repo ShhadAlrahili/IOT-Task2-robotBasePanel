@@ -1,10 +1,9 @@
 
 # IOT-Task2-robotBasePanel
+<p>
+ 
 <h3>main page</h3><br>
-![Screenshot](backward.png)
-![Screenshot](forward.png)
-![alt tag](http://url/to/main-page.png)
-
+![](/forward.png)
 
 <h3>robot base panel page</h3><br>
  
@@ -23,7 +22,7 @@
 
 <h3>Result after insert the direction of movement on database</h3><br>
 
-
+</
    
  
   
