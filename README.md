@@ -3,7 +3,8 @@
 <p>
  
 <h3>main page</h3><br>
-![ ](/forward.png)
+<img src="img/main-page.png" alt="main page" width="100">
+
 
 <h3>robot base panel page</h3><br>
  
