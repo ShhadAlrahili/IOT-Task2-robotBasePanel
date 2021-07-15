@@ -1,0 +1,61 @@
+
+/* Blue 
+#23354D
+ Gold:
+#AEA16A */
+
+body{
+    margin: 0;
+}
+
+ div.continer{
+    width: 100%;
+    height: 100vh;
+    background-color: #23354D;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    align-items: center;
+
+}
+
+div.continer h1{
+    margin: 0;
+    font-size: 120px;
+    color:#AEA16A ;
+}
+
+ .c1{
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+    flex-direction: column;
+}
+img{
+    width: 87%;
+      
+}
+
+
+.bu{
+  display: flex;
+  flex-direction: column;  
+  
+}
+ button{
+     padding: 10px;
+     border-color: white;
+     border-radius:10px ;
+     background: none;
+     color: #AEA16A;
+
+ }
+
+ button:hover{
+     border-color: #AEA16A;
+     background-color: white;
+    
+ }
+ a{
+text-decoration: unset;
+color: #AEA16A; }
